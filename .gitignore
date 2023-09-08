@@ -1,0 +1,16 @@
+# Ignore node modules
+node_modules/
+
+# Ignore downloads folder
+/cypress/downloads/
+
+# Ignore screenshots folder
+/cypress/screenshots/
+
+# Ignore videos folder
+/cypress/videos/
+
+# Ignore npm package lock files
+package-lock.json
+
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Rest API Automation using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "npx cypress run",
+    "prettier": "prettier \"**/*.js\" --write"
+  },
+  "keywords": ["API", "REST API", "API Automation", "Automation", "Cypress", "Testing", "Quality Assurance"],
+  "author": "Maqbool Ahmad Zia",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.14.0",
+    "prettier": "^2.8.8"
+  }
+}
+
